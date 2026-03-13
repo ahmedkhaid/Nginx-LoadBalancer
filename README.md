@@ -9,5 +9,4 @@
 - write `docker compose up -d --scale app=<number of replcase>
 - open any browser `http://localhost:8080`
 - open logs in the load balancer container using `docker compose logs -f load-balancer`
-- make multiple request usign ctrl + f5
-- 
+- make multiple requests usign ctrl + f5
